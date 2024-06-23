@@ -38,4 +38,4 @@ lion-pytorch==0.0.6
 # locon==0.0.4
 lycoris_lora==2.2.0.post3
 # for kohya_ss library
--e ./sd-scripts # no_verify leave this to specify not checking this a verification stage
+.
